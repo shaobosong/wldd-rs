@@ -54,8 +54,8 @@ program.exe:
 ## Configuration
 
 The tool accepts the following arguments:
-- -d, --dir: Additional directories to search for dependencies (can be specified multiple times)
-- files: List of files to analyze (required)
+- `-d`, `--dir`: Additional directories to search for dependencies (can be specified multiple times)
+- `files`: List of files to analyze (required)
 
 ## Limitations
 
